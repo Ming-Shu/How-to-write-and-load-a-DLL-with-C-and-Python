@@ -1,0 +1,20 @@
+﻿Build started 2018/6/29 下午 04:14:17.
+     1>Project "C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\pythondll\pythondll.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D PYTHONDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\pythondll.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D PYTHONDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D PYTHONDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\pythondll.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt pythondll.cpp
+         pythondll.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+         x64\Debug\pythondll.obj
+         x64\Debug\stdafx.obj
+            Creating library C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.lib and object C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.exp
+         pythondll.vcxproj -> C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\x64\Debug\pythondll.dll
+     1>Done Building Project "C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\pythondll\pythondll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23

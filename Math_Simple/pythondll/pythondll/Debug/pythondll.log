@@ -1,0 +1,14 @@
+﻿Build started 2018/6/29 下午 04:15:10.
+     1>Project "C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\pythondll\pythondll.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\pythondll.obj
+         Debug\stdafx.obj
+         LINK : C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.dll not found or not built by the last incremental link; performing full link
+            Creating library C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.lib and object C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.exp
+         pythondll.vcxproj -> C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\Debug\pythondll.dll
+     1>Done Building Project "C:\Users\Ming\Desktop\Python_C_DLL\VC\pythondll\pythondll\pythondll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.33
